@@ -1,0 +1,10 @@
+geomag>=0.9.2015
+pyorbital>=1.5.0
+sunpy>=1.1.1
+astropy>=4.0
+numpy>=1.16.4
+pandas>=0.25.3
+matplotlib>=3.1.2
+
+h5py>=2.10.0
+opencv-python>=4.1.2.30

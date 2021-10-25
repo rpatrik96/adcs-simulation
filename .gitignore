@@ -1,0 +1,10 @@
+/src/__pycache__/
+/jupyter/.ipynb_checkpoints
+/src/.ipynb_checkpoints
+/.idea
+
+*.zip
+*.npy
+*.hdf5
+*.png
+*.svg

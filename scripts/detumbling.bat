@@ -1,0 +1,2 @@
+python ../src/main.py --core --f-st 1 --ecef --fixed-init --tsim 250 --tsample 250 --num-step 1000 --h-ref 0.007 --detumbling --omega-norm 100 --num-runs 30 --log-dir "detumbling_ecef"
+python ../src/main.py --core --f-st 1 --eci --fixed-init --tsim 250 --tsample 250 --num-step 5000 --h-ref 0.007 --detumbling --omega-norm 100 --num-runs 30 --log-dir "detumbling_eci"
